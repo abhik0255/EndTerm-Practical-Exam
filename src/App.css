@@ -1,0 +1,44 @@
+.app {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 20px;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.answer {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
